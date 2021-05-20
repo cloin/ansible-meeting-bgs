@@ -16,7 +16,7 @@ jobs:
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
-        run: ansible-playbook /tmp/ansible-meeting-bgs/.github/workflows/ansible/build-readme.yml
+        run: ansible-playbook /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/.github/workflows/ansible/build-readme.yml
       - name: push readme
         run: |
           cd /tmp/ansible-meeting-bgs
