@@ -9,7 +9,7 @@
 - name: template readme
   ansible.builtin.template:
     src: readme.md.j2
-    dest: /tmp/ansible-meeting-bgs/README.md
+    dest: /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
 
 # - name: push readme
 #   ansible.builtin.shell:
