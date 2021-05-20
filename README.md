@@ -1,3 +1,6 @@
+[![build-readme](https://github.com/cloin/ansible-meeting-bgs/actions/workflows/build-readme.yml/badge.svg)](https://github.com/cloin/ansible-meeting-bgs/actions/workflows/build-readme.yml)
+<br>
+
 # Ansible team meeting backgrounds
 ## All your favorite offices and memes
 
@@ -40,5 +43,5 @@
   </tr>
 </table>
 
-
+<br>
 *This was automatically generated using github actions and ansible!*
