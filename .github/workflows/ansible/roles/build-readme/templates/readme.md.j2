@@ -2,7 +2,7 @@
 ## All your favorite offices and memes
 
 {% if images %}
-{%  for image in images  %}
-- {{ images.files.image.path }}
+{%  for image in images.files  %}
+- {{ image.path }}
 {%  endfor  %}
 {% endif %}
