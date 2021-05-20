@@ -26,5 +26,5 @@ jobs:
           git commit -m "readme generated"
           git push
       - name: cat readme
-        run: cat /tmp/readme.md
+        run: cat /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
 
