@@ -13,8 +13,6 @@ jobs:
       #- name: clone repo
       # run: git clone https://github.com/cloin/ansible-meeting-bgs.git /tmp/ansible-meeting-bgs
       - uses: actions/checkout@v2
-        with:
-          path: '/tmp/'
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
