@@ -9,7 +9,7 @@ jobs:
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
-        run: ansible-playbook ./ansible-meeting-bgs/ansible/test.yml
+        run: ansible-playbook ./ansible-meeting-bgs/.github/workflows/ansible/test.yml
       - name: test it
         run: ls /tmp/
 
