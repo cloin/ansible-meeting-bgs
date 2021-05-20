@@ -2,7 +2,7 @@
 <br>
 
 # Ansible team meeting backgrounds
-## All your favorite offices and memes
+### All your favorite offices and memes
 
 {% if images %}
 <table>
@@ -10,14 +10,15 @@
     <th>Name</th>
     <th>Preview</th>
   </tr>
-{%  for image in images.files  %}
+  {%  for image in images.files  %}
   <tr>
     <td>{{ image.path.split('/')[7] }}</td>
     <td><img src="./images/{{ image.path.split('/')[7] }}" alt="image.path.split('/')[7]" width="400" /></td>
   </tr>
-{%  endfor  %}
+  {%  endfor  %}
 </table>
 {% endif %}
 
 <br>
+
 *This was automatically generated using github actions and ansible!*
