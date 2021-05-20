@@ -15,11 +15,3 @@
     src: readme.md.j2
     dest: /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
 
-# - name: push readme
-#   ansible.builtin.shell:
-#     cmd: |
-#       git config user.name github-actions
-#       git config user.email github-actions@github.com
-#       git add /tmp/ansible-meeting-bgs/README.md
-#       git commit -m 'auto-generate README.md'
-#       git push origin main
