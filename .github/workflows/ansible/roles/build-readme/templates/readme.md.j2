@@ -9,8 +9,8 @@
   </tr>
 {%  for image in images.files  %}
   <tr>
-    <td>{{ image.path.split('/')[3] }}</td>
-    <td><img src="./images/{{ image.path.split('/')[3] }}" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>{{ image.path.split('/')[7] }}</td>
+    <td><img src="./images/{{ image.path.split('/')[7] }}" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
 {%  endfor  %}
 </table>

@@ -17,6 +17,8 @@ jobs:
         run: sudo apt-get install ansible
       - name: run playbook
         run: ansible-playbook /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/.github/workflows/ansible/build-readme.yml
+      - name: cat readme
+        run: cat /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
       - name: push readme
         run: |
           cd /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs
@@ -25,6 +27,4 @@ jobs:
           git add /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
           git commit -m "readme generated"
           git push
-      - name: cat readme
-        run: cat /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
 
