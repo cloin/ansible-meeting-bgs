@@ -12,6 +12,7 @@ jobs:
         run: ansible-playbook /tmp/ansible-meeting-bgs/.github/workflows/ansible/build-readme.yml
       - name: push readme
         run: |
+          cd /tmp/ansible-meeting-bgs
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add /tmp/ansible-meeting-bgs/README.md
