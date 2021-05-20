@@ -4,10 +4,12 @@ jobs:
   build-readme-of-images:
     runs-on: ubuntu-latest
     steps:
+      - name: clone repo
+        run: git clone https://github.com/cloin/ansible-meeting-bgs.git 
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
-        run: ansible-playbook ./ansible/build-readme.yml
+        run: ansible-playbook ./ansible-meeting-bgs/ansible/test.yml
       - name: test it
         run: ls /tmp/
 
