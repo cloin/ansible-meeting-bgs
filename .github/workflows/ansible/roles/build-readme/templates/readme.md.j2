@@ -2,8 +2,16 @@
 ## All your favorite offices and memes
 
 {% if images %}
+<table>
+  <tr>
+    <th>Name:</th>
+    <th>Preview</th>
+  </tr>
 {%  for image in images.files  %}
-{{ image.path.split('/')[3] }}
-<img src="./{{ image.path.split('/')[3] }}" alt="image.path.split('/')[3]" width="200" />
+  <tr>
+    <td>{{ image.path.split('/')[3] }}</td>
+    <td><img src="./{{ image.path.split('/')[3] }}" alt="image.path.split('/')[3]" width="200" /></td>
+  </tr>
 {%  endfor  %}
+</table>
 {% endif %}
