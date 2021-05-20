@@ -1,0 +1,9 @@
+name: build-readme
+on: [push]
+jobs:
+  build-readme-of-images
+    runs-on: ubuntu-latest
+    steps:
+      - name: install ansible
+        run: apt-get install ansible
+
