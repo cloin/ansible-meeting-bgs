@@ -7,36 +7,36 @@
     <th>Preview</th>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>jamie_tiger.png</td>
+    <td><img src="./images/jamie_tiger.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>moez_fan_club.png</td>
+    <td><img src="./images/moez_fan_club.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>andrius.png</td>
+    <td><img src="./images/andrius.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>andrius_pulp.png</td>
+    <td><img src="./images/andrius_pulp.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>craigometer.png</td>
+    <td><img src="./images/craigometer.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>marc.jpg</td>
+    <td><img src="./images/marc.jpg" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>massimo.png</td>
+    <td><img src="./images/massimo.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td><img src="./images/work" alt="image.path.split('/')[3]" width="200" /></td>
+    <td>classic_tom_anderson.png</td>
+    <td><img src="./images/classic_tom_anderson.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
 </table>
 
