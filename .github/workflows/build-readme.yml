@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: install ansible
-        run: apt-get install ansible
+        run: sudo apt-get install ansible
 
