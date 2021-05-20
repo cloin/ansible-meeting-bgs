@@ -3,6 +3,6 @@
 
 {% if images %}
 {%  for image in images.files  %}
-- {{ image.path }}
+- {{ image.path.split('/')[2] }}
 {%  endfor  %}
 {% endif %}
