@@ -3,6 +3,7 @@
 
 {% if images %}
 {%  for image in images.files  %}
-- {{ image.path.split('/')[2] }}
+{{ image.path.split('/')[3] }}
+<img src="./{{ image.path.split('/')[3] }}" alt="image.path.split('/')[3]" width="200" />
 {%  endfor  %}
 {% endif %}
