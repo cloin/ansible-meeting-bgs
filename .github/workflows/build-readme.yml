@@ -22,7 +22,7 @@ jobs:
           cd /tmp/ansible-meeting-bgs
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add /tmp/ansible-meeting-bgs/README.md
+          git add /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/README.md
           git commit -m "readme generated"
           git push
       - name: cat readme
