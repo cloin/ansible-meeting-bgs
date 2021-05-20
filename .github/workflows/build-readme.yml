@@ -5,11 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: clone repo
-        run: git clone https://github.com/cloin/ansible-meeting-bgs.git 
+        run: git clone https://github.com/cloin/ansible-meeting-bgs.git /tmp/
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
-        run: ansible-playbook ./ansible-meeting-bgs/.github/workflows/ansible/test.yml
+        run: ansible-playbook /tmp/ansible-meeting-bgs/.github/workflows/ansible/test.yml
       - name: test it
         run: ls /tmp/
 

@@ -1,7 +1,1 @@
 ---
-- name: Checkout repo
-  ansible.builtin.git:
-    repo: https://github.com/cloin/ansible-meeting-bgs
-    dest: /tmp/
-    single_branch: true
-    branch: main
