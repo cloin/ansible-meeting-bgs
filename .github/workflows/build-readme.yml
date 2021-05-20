@@ -1,9 +1,10 @@
 name: build-readme
-on: [push]
-  paths:
-    - 'images/**'
-  branches:
-    - main
+on: 
+  push:
+    paths:
+      - 'images/**'
+    branches:
+      - main
 
 jobs:
   build-readme-of-images:
