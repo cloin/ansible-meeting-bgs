@@ -6,6 +6,10 @@
     patterns: '*.png,*.jpg,*.jpeg'
   register: images
 
+- name: dump images
+  ansible.builtin.debug:
+    var: images
+
 - name: template readme
   ansible.builtin.template:
     src: readme.md.j2
