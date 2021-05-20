@@ -6,11 +6,18 @@
     patterns: '*.png,*.jpg,*.jpeg'
   register: images
 
-- name: list images
-  debug:
-    var: images
-
 - name: template readme
   ansible.builtin.template:
     src: readme.md.j2
-    dest: /tmp/readme.md
+    dest: /tmp/ansible-meeting-bgs/README.md
+
+- name: commit new readme
+  ansible.builtin.shell:
+    cmd: git add /tmp/ansible-meeting-bgs/README.md
+
+  ansible.builtin.shell:
+    cmd: git commit -m 'auto-generate README.md'
+
+  ansible.builtin.shell:
+    cmd: git push origin main
+   
