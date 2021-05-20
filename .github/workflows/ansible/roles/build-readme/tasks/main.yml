@@ -11,13 +11,14 @@
     src: readme.md.j2
     dest: /tmp/ansible-meeting-bgs/README.md
 
-- name: commit new readme
+- name: git config
   ansible.builtin.shell:
     cmd: git config user.name github-actions
 
   ansible.builtin.shell:
     cmd: git config user.email github-actions@github.com
 
+- name: commit readme
   ansible.builtin.shell:
     cmd: git add /tmp/ansible-meeting-bgs/README.md
 
