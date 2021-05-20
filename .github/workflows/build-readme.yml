@@ -6,4 +6,8 @@ jobs:
     steps:
       - name: install ansible
         run: sudo apt-get install ansible
+      - name: run playbook
+        run: ansible-playbook ansible/build-readme.yml
+      - name: test it
+        run: ls /tmp/
 

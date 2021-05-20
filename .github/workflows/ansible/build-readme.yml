@@ -1,0 +1,6 @@
+---
+- name: Build readme of images
+  hosts: localhost
+  become: true
+  roles:
+    - build-readme
