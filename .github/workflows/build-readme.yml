@@ -10,8 +10,6 @@ jobs:
         run: sudo apt-get install ansible
       - name: run playbook
         run: ansible-playbook /tmp/ansible-meeting-bgs/.github/workflows/ansible/build-readme.yml
-      - name: test it
-        run: ls /tmp/
       - name: cat readme
         run: cat /tmp/readme.md
 

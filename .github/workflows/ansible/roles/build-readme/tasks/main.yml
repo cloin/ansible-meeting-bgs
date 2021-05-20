@@ -13,10 +13,10 @@
 
 - name: commit new readme
   ansible.builtin.shell:
-    cmd: git config user.email github-actions@github.com
+    cmd: git config user.name github-actions
 
   ansible.builtin.shell:
-    cmd: git config user.name github-actions
+    cmd: git config user.email github-actions@github.com
 
   ansible.builtin.shell:
     cmd: git add /tmp/ansible-meeting-bgs/README.md
