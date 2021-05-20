@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: clone repo
-        run: git clone https://github.com/cloin/ansible-meeting-bgs.git /tmp/
+        run: git clone https://github.com/cloin/ansible-meeting-bgs.git /tmp/ansible-meeting-bgs
       - name: install ansible
         run: sudo apt-get install ansible
       - name: run playbook
