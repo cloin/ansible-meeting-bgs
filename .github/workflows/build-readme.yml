@@ -1,5 +1,13 @@
 name: build-readme
 on: 
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Generate README.md'
   push:
     paths:
       - 'images/**'
