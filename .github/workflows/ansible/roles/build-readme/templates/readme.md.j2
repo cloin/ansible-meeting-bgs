@@ -1,0 +1,8 @@
+# Ansible team meeting backgrounds
+## All your favorite offices and memes
+
+{% if images %}
+{%  for image in images  %}
+- {{ image.file.path }}
+{%  endfor  %}
+{% endif %}

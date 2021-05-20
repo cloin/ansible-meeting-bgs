@@ -9,3 +9,8 @@
 - name: list images
   debug:
     var: images
+
+- name: template readme
+  ansible.builtin.template:
+    src: readme.md.j2
+    dest: /tmp/readme.md
