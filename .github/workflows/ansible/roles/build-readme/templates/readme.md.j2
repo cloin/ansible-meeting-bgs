@@ -12,8 +12,8 @@
   </tr>
   {%  for image in images.files | sort(attribute='path')  %}
   <tr>
-    <td>{{ image | basename }}</td>
-    <td><img src="./images/{{ image | basename }}" alt="{{ image | basename }}" width="400" /></td>
+    <td>{{ image.path.split('/')[7] }}</td>
+    <td><img src="./images/{{ image.path.split('/')[7] }}" alt="image.path.split('/')[7]" width="400" /></td>
   </tr>
   {%  endfor  %}
 </table>
