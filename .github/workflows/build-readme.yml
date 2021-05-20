@@ -1,8 +1,8 @@
 name: build-readme
 on: 
   push:
-    paths:
-      - 'images/**'
+    #    paths:
+    #  - 'images/**'
     branches:
       - main
 
