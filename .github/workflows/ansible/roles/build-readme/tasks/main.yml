@@ -11,20 +11,11 @@
     src: readme.md.j2
     dest: /tmp/ansible-meeting-bgs/README.md
 
-- name: git config
+- name: push readme
   ansible.builtin.shell:
-    cmd: git config user.name github-actions
-
-  ansible.builtin.shell:
-    cmd: git config user.email github-actions@github.com
-
-- name: commit readme
-  ansible.builtin.shell:
-    cmd: git add /tmp/ansible-meeting-bgs/README.md
-
-  ansible.builtin.shell:
-    cmd: git commit -m 'auto-generate README.md'
-
-  ansible.builtin.shell:
-    cmd: git push origin main
-   
+    cmd: |
+      git config user.name github-actions
+      git config user.email github-actions@github.com
+      git add /tmp/ansible-meeting-bgs/README.md
+      git commit -m 'auto-generate README.md'
+      git push origin main
