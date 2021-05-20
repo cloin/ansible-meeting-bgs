@@ -1,7 +1,7 @@
 ---
 - name: Build list of images
   ansible.builtin.find:
-    paths: /tmp/ansible-meetings-bgs/
+    paths: /tmp/ansible-meeting-bgs/
     recurse: true
     patterns: '*.png,*.jpg,*.jpeg'
   register: images
