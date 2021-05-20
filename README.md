@@ -27,6 +27,10 @@
     <td><img src="./images/craigometer.png" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
   <tr>
+    <td>test.jpg</td>
+    <td><img src="./images/test.jpg" alt="image.path.split('/')[7]" width="200" /></td>
+  </tr>
+  <tr>
     <td>marc.jpg</td>
     <td><img src="./images/marc.jpg" alt="image.path.split('/')[7]" width="200" /></td>
   </tr>
