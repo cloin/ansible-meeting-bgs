@@ -1,1 +1,11 @@
 ---
+- name: Build list of images
+  find:
+    paths: /tmp/ansible-meetings-bgs/
+    recurse: true
+    patterns: *.png,*.jpg,*.jpeg
+  register: images
+
+- name: list images
+  debug:
+    var: images
