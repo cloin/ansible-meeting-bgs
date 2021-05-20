@@ -41,10 +41,6 @@
     <td>moez_fan_club.png</td>
     <td><img src="./images/moez_fan_club.png" alt="image.path.split('/')[7]" width="400" /></td>
   </tr>
-    <tr>
-    <td>test.jpg</td>
-    <td><img src="./images/test.jpg" alt="image.path.split('/')[7]" width="400" /></td>
-  </tr>
   </table>
 
 <br>
