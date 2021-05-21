@@ -10,8 +10,8 @@
     <th>Preview</th>
   </tr>
     <tr>
-    <td>andrius.png</td>
-    <td><img src="./images/andrius.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td>andrius_kitchen.png</td>
+    <td><img src="./images/andrius_kitchen.png" alt="image.path.split('/')[7]" width="400" /></td>
   </tr>
     <tr>
     <td>andrius_pulp.png</td>
