@@ -10,36 +10,36 @@
     <th>Preview</th>
   </tr>
     <tr>
-    <td>andrius_kitchen.png</td>
-    <td><img src="./images/andrius_kitchen.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td>andrius_durham.png</td>
+    <td><img src="./images/andrius_durham.png" alt="andrius_durham.png" width="400" /></td>
   </tr>
     <tr>
     <td>andrius_pulp.png</td>
-    <td><img src="./images/andrius_pulp.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/andrius_pulp.png" alt="andrius_pulp.png" width="400" /></td>
   </tr>
     <tr>
     <td>classic_tom_anderson.png</td>
-    <td><img src="./images/classic_tom_anderson.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
   </tr>
     <tr>
     <td>craigometer.png</td>
-    <td><img src="./images/craigometer.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/craigometer.png" alt="craigometer.png" width="400" /></td>
   </tr>
     <tr>
     <td>jamie_tiger.png</td>
-    <td><img src="./images/jamie_tiger.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/jamie_tiger.png" alt="jamie_tiger.png" width="400" /></td>
   </tr>
     <tr>
     <td>marc.jpg</td>
-    <td><img src="./images/marc.jpg" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/marc.jpg" alt="marc.jpg" width="400" /></td>
   </tr>
     <tr>
     <td>massimo.png</td>
-    <td><img src="./images/massimo.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/massimo.png" alt="massimo.png" width="400" /></td>
   </tr>
     <tr>
     <td>moez_fan_club.png</td>
-    <td><img src="./images/moez_fan_club.png" alt="image.path.split('/')[7]" width="400" /></td>
+    <td><img src="./images/moez_fan_club.png" alt="moez_fan_club.png" width="400" /></td>
   </tr>
   </table>
 
