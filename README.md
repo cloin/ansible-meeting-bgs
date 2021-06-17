@@ -22,6 +22,10 @@
     <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
   </tr>
     <tr>
+    <td>craig_brandt_office.jpg</td>
+    <td><img src="./images/craig_brandt_office.jpg" alt="craig_brandt_office.jpg" width="400" /></td>
+  </tr>
+    <tr>
     <td>craigometer.png</td>
     <td><img src="./images/craigometer.png" alt="craigometer.png" width="400" /></td>
   </tr>
