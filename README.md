@@ -46,8 +46,16 @@
     <td><img src="./images/moez_fan_club.png" alt="moez_fan_club.png" width="400" /></td>
   </tr>
     <tr>
+    <td>sean_colin_celebrate.png</td>
+    <td><img src="./images/sean_colin_celebrate.png" alt="sean_colin_celebrate.png" width="400" /></td>
+  </tr>
+    <tr>
     <td>sean_easy_livin.png</td>
     <td><img src="./images/sean_easy_livin.png" alt="sean_easy_livin.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean_hammer.png</td>
+    <td><img src="./images/sean_hammer.png" alt="sean_hammer.png" width="400" /></td>
   </tr>
   </table>
 
