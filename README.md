@@ -45,6 +45,10 @@
     <td>moez_fan_club.png</td>
     <td><img src="./images/moez_fan_club.png" alt="moez_fan_club.png" width="400" /></td>
   </tr>
+    <tr>
+    <td>sean_easy_livin.png</td>
+    <td><img src="./images/sean_easy_livin.png" alt="sean_easy_livin.png" width="400" /></td>
+  </tr>
   </table>
 
 <br>
