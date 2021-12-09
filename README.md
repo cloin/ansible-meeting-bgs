@@ -50,7 +50,7 @@
     <td><img src="./images/moez_fan_club.png" alt="moez_fan_club.png" width="400" /></td>
   </tr>
     <tr>
-    <td>moez_fan_club.png</td>
+    <td>nuno.png</td>
     <td><img src="./images/nuno.png" alt="nuno.png" width="400" /></td>
   </tr>  
     <tr>
