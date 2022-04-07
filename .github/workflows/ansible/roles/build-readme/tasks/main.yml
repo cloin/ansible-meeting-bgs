@@ -3,7 +3,6 @@
   ansible.builtin.find:
     paths:
       - /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/images/
-      - /home/runner/work/ansible-meeting-bgs/ansible-meeting-bgs/gifs/
     recurse: true
     patterns: '*.png,*.jpg,*.jpeg,*.gif'
   register: images
