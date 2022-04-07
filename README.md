@@ -10,6 +10,10 @@
     <th>Preview</th>
   </tr>
     <tr>
+    <td>brain_craig.gif</td>
+    <td><img src="./images/brain_craig.gif" alt="brain_craig.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>andrius_durham.png</td>
     <td><img src="./images/andrius_durham.png" alt="andrius_durham.png" width="400" /></td>
   </tr>
