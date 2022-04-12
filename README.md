@@ -62,6 +62,10 @@
     <td><img src="./images/nuno.png" alt="nuno.png" width="400" /></td>
   </tr>
     <tr>
+    <td>sean_architect.gif</td>
+    <td><img src="./images/sean_architect.gif" alt="sean_architect.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>sean_business_time.png</td>
     <td><img src="./images/sean_business_time.png" alt="sean_business_time.png" width="400" /></td>
   </tr>
