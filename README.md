@@ -77,6 +77,10 @@
     <td>sean_hammer.png</td>
     <td><img src="./images/sean_hammer.png" alt="sean_hammer.png" width="400" /></td>
   </tr>
+    <tr>
+    <td>sean_meme_architect.png</td>
+    <td><img src="./images/sean_meme_architect.png" alt="sean_meme_architect.png" width="400" /></td>
+  </tr>
   </table>
 
 <br>
