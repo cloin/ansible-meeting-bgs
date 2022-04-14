@@ -22,12 +22,20 @@
     <td><img src="./images/andrius_pulp.png" alt="andrius_pulp.png" width="400" /></td>
   </tr>
     <tr>
+    <td>anshul.gif</td>
+    <td><img src="./images/anshul.gif" alt="anshul.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>brain_craig.gif</td>
     <td><img src="./images/brain_craig.gif" alt="brain_craig.gif" width="400" /></td>
   </tr>
     <tr>
     <td>classic_tom_anderson.png</td>
     <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>craig.gif</td>
+    <td><img src="./images/craig.gif" alt="craig.gif" width="400" /></td>
   </tr>
     <tr>
     <td>craig_brandt_office.jpg</td>
@@ -60,6 +68,10 @@
     <tr>
     <td>nuno.png</td>
     <td><img src="./images/nuno.png" alt="nuno.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>roger2.gif</td>
+    <td><img src="./images/roger2.gif" alt="roger2.gif" width="400" /></td>
   </tr>
     <tr>
     <td>sean_architect.gif</td>
