@@ -34,6 +34,10 @@
     <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
   </tr>
     <tr>
+    <td>colin_musk.gif</td>
+    <td><img src="./images/colin_musk.gif" alt="colin_musk.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>craig.gif</td>
     <td><img src="./images/craig.gif" alt="craig.gif" width="400" /></td>
   </tr>
