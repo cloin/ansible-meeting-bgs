@@ -46,6 +46,10 @@
     <td><img src="./images/craigometer.png" alt="craigometer.png" width="400" /></td>
   </tr>
     <tr>
+    <td>dafne.gif</td>
+    <td><img src="./images/dafne.gif" alt="dafne.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>jamie_tiger.png</td>
     <td><img src="./images/jamie_tiger.png" alt="jamie_tiger.png" width="400" /></td>
   </tr>
