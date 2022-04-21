@@ -78,6 +78,10 @@
     <td><img src="./images/nuno.png" alt="nuno.png" width="400" /></td>
   </tr>
     <tr>
+    <td>nuno_hippo.png</td>
+    <td><img src="./images/nuno_hippo.png" alt="nuno_hippo.png" width="400" /></td>
+  </tr>
+    <tr>
     <td>roger2.gif</td>
     <td><img src="./images/roger2.gif" alt="roger2.gif" width="400" /></td>
   </tr>
