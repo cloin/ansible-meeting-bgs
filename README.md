@@ -22,8 +22,24 @@
     <td><img src="./images/andrius_pulp.png" alt="andrius_pulp.png" width="400" /></td>
   </tr>
     <tr>
+    <td>anshul.gif</td>
+    <td><img src="./images/anshul.gif" alt="anshul.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>brain_craig.gif</td>
+    <td><img src="./images/brain_craig.gif" alt="brain_craig.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>classic_tom_anderson.png</td>
     <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin_musk.gif</td>
+    <td><img src="./images/colin_musk.gif" alt="colin_musk.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>craig.gif</td>
+    <td><img src="./images/craig.gif" alt="craig.gif" width="400" /></td>
   </tr>
     <tr>
     <td>craig_brandt_office.jpg</td>
@@ -32,6 +48,10 @@
     <tr>
     <td>craigometer.png</td>
     <td><img src="./images/craigometer.png" alt="craigometer.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>dafne.gif</td>
+    <td><img src="./images/dafne.gif" alt="dafne.gif" width="400" /></td>
   </tr>
     <tr>
     <td>jamie_tiger.png</td>
@@ -50,8 +70,24 @@
     <td><img src="./images/moez_fan_club.png" alt="moez_fan_club.png" width="400" /></td>
   </tr>
     <tr>
+    <td>nuno.gif</td>
+    <td><img src="./images/nuno.gif" alt="nuno.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>nuno.png</td>
     <td><img src="./images/nuno.png" alt="nuno.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>nuno_hippo.png</td>
+    <td><img src="./images/nuno_hippo.png" alt="nuno_hippo.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>roger2.gif</td>
+    <td><img src="./images/roger2.gif" alt="roger2.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean_architect.gif</td>
+    <td><img src="./images/sean_architect.gif" alt="sean_architect.gif" width="400" /></td>
   </tr>
     <tr>
     <td>sean_business_time.png</td>
@@ -68,6 +104,10 @@
     <tr>
     <td>sean_hammer.png</td>
     <td><img src="./images/sean_hammer.png" alt="sean_hammer.png" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean_meme_architect.png</td>
+    <td><img src="./images/sean_meme_architect.png" alt="sean_meme_architect.png" width="400" /></td>
   </tr>
   </table>
 
