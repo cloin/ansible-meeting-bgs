@@ -34,8 +34,56 @@
     <td><img src="./images/classic_tom_anderson.png" alt="classic_tom_anderson.png" width="400" /></td>
   </tr>
     <tr>
+    <td>colin-burritobutton.gif</td>
+    <td><img src="./images/colin-burritobutton.gif" alt="colin-burritobutton.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-itssosimple.gif</td>
+    <td><img src="./images/colin-itssosimple.gif" alt="colin-itssosimple.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-mindblown.gif</td>
+    <td><img src="./images/colin-mindblown.gif" alt="colin-mindblown.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-ohyeahsure.gif</td>
+    <td><img src="./images/colin-ohyeahsure.gif" alt="colin-ohyeahsure.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-pushsean.gif</td>
+    <td><img src="./images/colin-pushsean.gif" alt="colin-pushsean.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-sean-timer.gif</td>
+    <td><img src="./images/colin-sean-timer.gif" alt="colin-sean-timer.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-technically.gif</td>
+    <td><img src="./images/colin-technically.gif" alt="colin-technically.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-tellmemore.gif</td>
+    <td><img src="./images/colin-tellmemore.gif" alt="colin-tellmemore.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-thatshilarious.gif</td>
+    <td><img src="./images/colin-thatshilarious.gif" alt="colin-thatshilarious.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-thinkbigger.gif</td>
+    <td><img src="./images/colin-thinkbigger.gif" alt="colin-thinkbigger.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>colin-winwin.gif</td>
+    <td><img src="./images/colin-winwin.gif" alt="colin-winwin.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>colin_musk.gif</td>
     <td><img src="./images/colin_musk.gif" alt="colin_musk.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>craig-frustrated.gif</td>
+    <td><img src="./images/craig-frustrated.gif" alt="craig-frustrated.gif" width="400" /></td>
   </tr>
     <tr>
     <td>craig.gif</td>
@@ -82,8 +130,28 @@
     <td><img src="./images/nuno_hippo.png" alt="nuno_hippo.png" width="400" /></td>
   </tr>
     <tr>
+    <td>roger-heyhey.gif</td>
+    <td><img src="./images/roger-heyhey.gif" alt="roger-heyhey.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>roger2.gif</td>
     <td><img src="./images/roger2.gif" alt="roger2.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean-bananaphone.gif</td>
+    <td><img src="./images/sean-bananaphone.gif" alt="sean-bananaphone.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean-ooogoodie.gif</td>
+    <td><img src="./images/sean-ooogoodie.gif" alt="sean-ooogoodie.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean-robot.gif</td>
+    <td><img src="./images/sean-robot.gif" alt="sean-robot.gif" width="400" /></td>
+  </tr>
+    <tr>
+    <td>sean-wtflip.gif</td>
+    <td><img src="./images/sean-wtflip.gif" alt="sean-wtflip.gif" width="400" /></td>
   </tr>
     <tr>
     <td>sean_architect.gif</td>
