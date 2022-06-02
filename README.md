@@ -138,6 +138,10 @@
     <td><img src="./images/roger2.gif" alt="roger2.gif" width="400" /></td>
   </tr>
     <tr>
+    <td>roger_thumbsup.gif</td>
+    <td><img src="./images/roger_thumbsup.gif" alt="roger_thumbsup.gif" width="400" /></td>
+  </tr>
+    <tr>
     <td>sean-bananaphone.gif</td>
     <td><img src="./images/sean-bananaphone.gif" alt="sean-bananaphone.gif" width="400" /></td>
   </tr>
