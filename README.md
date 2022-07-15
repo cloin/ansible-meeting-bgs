@@ -146,6 +146,10 @@
     <td><img src="./images/sean-bananaphone.gif" alt="sean-bananaphone.gif" width="400" /></td>
   </tr>
     <tr>
+    <td>sean-fan-club.png</td>
+    <td><img src="./images/sean-fan-club.png" alt="sean-fan-club.png" width="400" /></td>
+  </tr>
+    <tr>
     <td>sean-ooogoodie.gif</td>
     <td><img src="./images/sean-ooogoodie.gif" alt="sean-ooogoodie.gif" width="400" /></td>
   </tr>
